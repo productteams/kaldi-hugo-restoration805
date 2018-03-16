@@ -5,7 +5,7 @@ page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Restoration805 is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
@@ -20,7 +20,7 @@ intro:
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
+        We offer a small, but carefully curated selection of staining gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
@@ -40,7 +40,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    Restoration805 is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
@@ -63,39 +63,39 @@ main:
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      The first time I tried Restoration805's services, I couldn’t even believe that my floor was
+      the same thing I’ve been looking at every morning. It is indeed beautiful now.
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Restoration805 is the place to go if you want the best quality wood care. I love their
+      stance on empowering farmers and billing transparency.
 full_image: /img/products/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to make great floors a part of your life. Choose one of our
+    quarterly subscription plans to receive great wood floor services at your doorstep each
+    quarter. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for homeowners.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: '150'
+    - description: 'Great for businesses with lots of traffic'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - 3  maintenence visits per quarter
+        - all types of floors
+        - Up to 4 different varieties of finishes depending on the wear level
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '380'
+    - description: Complete redo? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Whatever you need to get your wood back up to shape
+        - Hardwood, Softwood,Interiors, Exteriors
+        - Unlimited varieties of wood coverings
       plan: Custom
       price: '?'
 ---
