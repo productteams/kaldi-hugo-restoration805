@@ -1,13 +1,13 @@
 ---
-title: Our Coffee
+title: Our Resorationists
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Restoration805 is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
+  Restoration805 is the ultimate spot for cwood lovers who want to learn about their
+  wood’s origin and support the farmers that grew it. We take wood restoration production,
+  staining and maintenence seriously and we’re glad to pass that knowledge to
   anyone.
 intro:
   blurbs:
@@ -15,40 +15,39 @@ intro:
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
+        variety of services performed with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
     - image: /img/illustrations/coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of staining gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
+        tools for every taste and experience level. No matter if you have three appartment building or just bought your first old piece of furniture and want to refinish it, you’ll find a gadget or stain
         to fall in love with in our shop.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
+        Love a great cup of coffee, but never knew how to make it beautiful? Bought a
+        fancy new home but have no clue how to keep the wood as good as new for the life of your house? Don't worry, we’re here
+        to help. You can schedule a custom 1-on-1 consultation with our Renovationists
+        to learn anything you want to know about wood staining and refinishing.
         Email us or call the store for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        We believe that beautiful wood has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        space where you can hang out with fellow wood lovers and learn about
+        wood restoration techniques. All of the artwork on display there is for
+        sale. Half of The full price you pay goes to the local communities that support our efforts and the other half to the artist.
   heading: What we offer
   description: >
-    Restoration805 is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
+    Restoration805 is the ultimate spot for wood lovers who want to learn about their
+    wood’s origin and support the farmers that grew it. We take wood restoration
+    production, products and techniques seriously and we’re glad to pass that
     knowledge to anyone.
 main:
-  heading: Great coffee with no compromises
+  heading: Beautiful Wood with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
+    We hold our work to the highest standards from the first sheet of sand paper we use to our dust-free guarantee.
+    That’s why we’re meticulous and transparent about each step of our Renovationist’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
@@ -79,14 +78,14 @@ pricing:
   plans:
     - description: Perfect for homeowners.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - 1 maintenance visit per month
+        - All types of Wood Floors"
+        - One or two varieties of coating"
       plan: Small
-      price: '150'
+      price: '50'
     - description: 'Great for businesses with lots of traffic'
       items:
-        - 3  maintenence visits per quarter
+        - 3 maintenence visits per quarter
         - all types of floors
         - Up to 4 different varieties of finishes depending on the wear level
       plan: Big
