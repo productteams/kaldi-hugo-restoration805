@@ -1,11 +1,11 @@
 ---
-title: Our Resorationists
+title: Our Restorationists
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
 description: >-
-  Restoration805 is the ultimate spot for cwood lovers who want to learn about their
+  Restoration805 is the ultimate spot for wood lovers who want to learn about their
   wood’s origin and support the farmers that grew it. We take wood restoration production,
   staining and maintenence seriously and we’re glad to pass that knowledge to
   anyone.
