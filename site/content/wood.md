@@ -1,1 +1,5 @@
-+++ title = "Wood" type = "wood" page="/wood.html" +++
++++
+title = "Wood"
+type = "wood"
+page="/wood.html"
++++
